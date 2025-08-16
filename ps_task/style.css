@@ -1,0 +1,376 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.headd{
+    display: flex;
+    justify-content: space-between;
+}
+.headd h1{
+    margin-left: 120px;
+}
+.headd button{
+    margin-right: 120px;
+    border: 1px solid #006A50;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 24px;
+    background-color: white;
+    color: #006A50;
+}
+
+.banner{
+    width: 1280px;
+    height: 580px;
+    margin-left: 120px;
+    margin-top: 30px;
+    background-color: #C6E4D6;
+    border: 1px solid #006A50;
+    border-radius: 10px;
+}
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+}
+.hero img{
+    width: 474px;
+    height: 400px;
+    margin-top: 100px;
+}
+.hero-sub{
+    margin: 117px 60px 117px 64px;
+}
+.hero-sub h5{
+    font-weight: 500;
+    font-size: 20px;
+    color: #0E0E0E;
+}
+.hero-sub h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+.hero-sub button{
+    border: 1px solid #006A50;
+    padding: 10px 20px;
+    border-radius: 15px;
+    background-color: #006A50;
+    color: white;
+    font-weight: bold;
+}
+.card-sec{
+    width: 1280px;
+    height: 380px;
+    margin: 80px 160px;
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+}
+.card-1 {
+    border: 1px solid #006A50;
+    padding: 15px 30px;
+    border-radius: 20px;
+}
+.card-2{
+    border: 1px solid #006A50;
+    padding: 15px 30px;
+    border-radius: 20px;
+}
+.card-3 {
+    border: 1px solid #006A50;
+    padding: 15px 30px;
+    border-radius: 20px;
+}
+.card-4{
+    border: 1px solid #006A50;
+    padding: 15px 30px;
+    border-radius: 15px;
+}
+.card-5{
+    border: 1px solid #006A50;
+    padding: 15px 30px;
+    border-radius: 20px;
+    background-color: #a4bbe2;
+}
+.card-5 h4{
+    font-weight: bold;
+    font-size: 20px;
+}
+.card-5 button{
+    background-color: #1559ce;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+.card-6{
+    border: 1px solid #006A50;
+    padding: 15px 30px;
+    border-radius: 20px;
+    background-color: #86e1b8;
+}
+.card-6 h4{
+    font-weight: bold;
+    font-size: 20px;
+}
+.card-6 button{
+    background-color: #09A15C;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+.card-7{
+    border: 1px solid #006A50;
+    padding: 15px 30px;
+    border-radius: 20px;
+    background-color: #ecdab2;
+}
+.card-7 h4{
+    font-weight: bold;
+    font-size: 20px;
+}
+.card-7 button{
+     background-color: #FFC239;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+.btn{
+    border: 1px solid #09A15C;
+    padding: 15px 30px;
+    border-radius: 15px;
+}
+.ano-card{
+    display: flex;
+    justify-content: space-between;
+    width: 1280px;
+    height: 325px;
+    margin: 32px 160px;
+}
+.title{
+    margin-left: 160px;
+}
+.fter{
+    margin-top: 80px;
+}
+.last{
+    text-align: center;
+}
+.last h1{
+    font-weight: bold;
+    
+}
+.icon img{
+    margin-right: 10px;
+}
+.subs{
+    width: 1280px;
+    height: 395px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #bee1d9;
+    color: black;
+    margin: 80px 160px;
+    border: none;
+    border-radius: 15px;
+}
+.sub-sec{
+    text-align: center;
+}
+.in{
+    width: 500px;
+    height: 55px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 70px;
+}
+.inb{
+    background-color: #09A15C;
+    padding: 20px 40px;
+    border: 1px solid #09A15C;
+    border-radius: 15px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.do{
+    text-align: center;
+}
+.do h1{
+    font-weight: bold;
+    font-size: 40px;
+}
+.taka-sec{
+    width: 1280px;
+    height: 464px;
+    margin: 80px 160px;
+}
+.taka{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.taka li{
+    list-style: none;
+    border: 1px solid black;
+    padding: 20px 30px;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.tk-200{
+    background-color: #abe7d8;
+}
+.oa{
+    width: 1032px;
+    height: 64px;
+    margin: 40px 124px 88px 124px;
+    border: 1px solid blueviolet;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    font-size: 20px;
+    color: rgb(220, 212, 212);
+}
+.taka-btn{
+    border: 1px solid #006A50;
+    padding: 15px 32px;
+    border-radius: 15px;
+    background-color: #09A15C;
+    font-weight: bold;
+    color: white;
+}
+
+.op-sec{
+    width: 1280px;
+    height: 481px;
+    margin: 80px 147.5px;
+}
+
+
+.op{
+    display: flex;
+    width: 1216px;
+    height: 72px;
+    background-color: #C6E4D6;
+}
+
+.op1{
+    margin-left: 10px;
+    margin-right: 970px;
+    font-weight: bold;
+    font-weight: 50px;
+}
+
+.yes{
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+
+.yes1{
+    display: flex;
+    gap: 570px;
+    margin-top: 20px;
+}
+
+.fi{
+    width: 1280px;
+    height: 1406px;
+}
+
+.one{
+    display: flex;
+    width: 1280px;
+    height: 402px;
+    margin: 32px 147.5px 24px;
+    
+}
+
+.one1{
+    width: 408px;
+    height: 306px;
+    margin: 48px;
+    border-radius: 20px;
+}
+
+.two2{
+    width: 744px;
+    height: 290px;
+    margin: 56px 32px 56px 48px;
+    margin-left: 10px;
+}
+
+.two2 button{
+    background-color: #006A50;
+    color: white;
+    width: 139px;
+    height: 48px;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+.fi1{
+    margin-left: 200px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.fi2{
+    margin-left: 200px;
+}
+@media screen and (max-width:576px) {
+    .ano-card{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        width: 100%;
+        height: auto;
+        margin: auto;
+        gap: 10px;
+    }
+    .taka-sec{
+        max-width: 500px;
+        margin-left: 10px;
+        flex-direction: column;
+    }
+    .taka{
+        flex-direction: column;
+        margin-left: 50px;
+    }
+    .taka li {
+         list-style: none;
+        padding: 0px;
+        border-radius: 15px;
+        font-weight: bold;
+        font-size:2rem;
+        max-width: 100px;
+    }
+    .oa{
+        display: block;
+        width: 100px;
+        height: 30px;
+        margin-left: 10px;
+        margin-bottom: 10px;
+        padding: 12px 0px;
+        border: 1px solid blueviolet;
+        border-radius: 15px;
+        font-weight: 500;
+        font-size: 12px;
+        color: rgb(210, 13, 13);
+    }
+    .taka-btn{
+         display: block;
+        width: 100px;
+        padding: 12px;
+        font-size: 14px;
+        border-radius: 15px;
+        margin-left: 10px;
+        margin-bottom: 10px;
+    }
+
+}
